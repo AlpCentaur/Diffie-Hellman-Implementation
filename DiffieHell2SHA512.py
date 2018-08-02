@@ -1,4 +1,4 @@
-# Implementation des Diffie Hellman Schluesselaustausches
+# Implementation of Diffie Hellman Key Exchange, runs with pypy
 
 
 import hashlib
