@@ -143,7 +143,7 @@ class DiffieHellAttack:
         
         
         
-        # Hier ist der Part, den ich nicht zum laufen gebracht habe.. aber generell funktioniert das programm
+        # Hier ist der Versuch, das ganze zu parallelisieren
         
         
         #pool = Pool(numberCPUs)
